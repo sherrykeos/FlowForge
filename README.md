@@ -1,4 +1,4 @@
-# Pipeline Builder & Analyzer
+# FlowForge : Node-Based Workflow Builderipeline Builder & Analyzer
 
 A full-stack node-based visual programming interface that allows users to build, connect, and analyze pipelines. Users can drag and drop different types of nodes onto a canvas, connect them with interactive edges, and submit the pipeline to a backend service to evaluate its structural properties (such as whether it forms a Directed Acyclic Graph).
 
